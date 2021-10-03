@@ -109,11 +109,3 @@ difference() {
     //button
     translate([-button_dims.x / 2, outer_d / 2 - button_dims.y - 2, 0]) cube([button_dims.x, button_dims.y, button_dims.z]);
 }
-
-
-
-
-
-
-
-
